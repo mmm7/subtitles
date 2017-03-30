@@ -789,7 +789,7 @@ megismertelek Titeket?
 
 168
 00:12:28,414 --> 00:12:32,667
-- Annyra feszült volt az a szegény lány.
+- Annyira feszült volt az a szegény lány.
 - Cosimo barátaival találkozni!
 
 169
@@ -1651,7 +1651,7 @@ Add ide a telefonom , mennem kell.
 
 347
 00:23:31,326 --> 00:23:33,411
-Ennyi idosen kibírhatatlanok .
+Ennyi idősen kibírhatatlanok .
 
 348
 00:23:33,703 --> 00:23:36,080
@@ -1717,7 +1717,7 @@ valaki kefél!
 361
 00:24:19,875 --> 00:24:22,877
 Még nem is ettük meg
-az elso fogást sem, és már így állunk?
+az első fogást sem, és már így állunk?
 
 362
 00:24:23,003 --> 00:24:26,088
@@ -1794,7 +1794,7 @@ a boldogságot valaki mástól várja.
 
 377
 00:25:19,392 --> 00:25:23,312
-Végülis ugyanaz .
+Végül is ugyanaz .
 Én nem kérek a segítségekből.
 
 378
@@ -2813,7 +2813,7 @@ Marika.
 
 590
 00:39:26,864 --> 00:39:29,157
-- Ki o ?
+- Ki ő ?
 - Ígéretesnek hangzik a név.
 
 591
@@ -3357,7 +3357,7 @@ rossz hatással van rátok.
 
 704
 00:47:24,383 --> 00:47:26,717
-Rocco, jött egy emailed.
+Rocco, jött egy email-ed.
 
 705
 00:47:27,636 --> 00:47:31,389
@@ -3825,7 +3825,7 @@ csak a szexről szól a kapcsolat.
 
 802
 00:53:18,236 --> 00:53:21,739
-A lánynak csak a szexrol szól,
+A lánynak csak a szexről szól,
 de Ivano szerelmes,
 
 803
@@ -4711,7 +4711,7 @@ a kapcsolatotokat.
 
 992
 01:06:58,139 --> 01:07:00,807
-Önmagát kérdojelezi meg.
+Önmagát kérdőjelezi meg.
 
 993
 01:07:00,933 --> 01:07:03,810
