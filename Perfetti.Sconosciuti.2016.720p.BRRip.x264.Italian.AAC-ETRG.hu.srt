@@ -1097,7 +1097,7 @@ mennyit keres egy torna tanár.
 231
 00:16:07,466 --> 00:16:12,512
 Akkor is undorító!
-Egy család tönkre megy egy sms miatt.
+Egy család tönkre megy egy SMS miatt.
 
 232
 00:16:12,638 --> 00:16:15,765
@@ -1115,7 +1115,7 @@ Az ő hibája, hogy elolvasta?
 235
 00:16:23,399 --> 00:16:27,402
 Nem, de a pasas legalább
-kitörölhette volna az sms-t
+kitörölhette volna az SMS-t
 
 236
 00:16:27,528 --> 00:16:30,405
@@ -1129,7 +1129,7 @@ Fiatal lányt kefél,
 
 238
 00:16:34,034 --> 00:16:38,913
-- Az sms-sel, vagy hogy ne legyen szar alak?
+- Az SMS-sel, vagy hogy ne legyen szar alak?
 - Ne kötözködj velem!
 
 239
@@ -1259,7 +1259,7 @@ a telefonjainkat az asztalra!
 
 265
 00:18:37,032 --> 00:18:42,036
-sms, WhatsApp üzenet, hívás,
+SMS, WhatsApp üzenet, hívás,
 bármi érkezik, együtt nézzük meg.
 
 266
@@ -3197,11 +3197,11 @@ Nem kell magyarázkodnod, Peppe.
 
 670
 00:45:22,010 --> 00:45:24,470
-Mi ez? Sms?
+Mi ez? SMS?
 
 671
 00:45:24,638 --> 00:45:27,140
-- Ki kapott sms-t?
+- Ki kapott SMS-t?
 - Te.
 
 672
@@ -3265,7 +3265,7 @@ ami már 5 éve megy.
 685
 00:46:06,054 --> 00:46:10,183
 Nem értem az embereket
-akik nem válaszolnak az sms-re.
+akik nem válaszolnak az SMS-re.
 
 686
 00:46:10,559 --> 00:46:12,268
@@ -3361,7 +3361,7 @@ Rocco, jött egy email-ed.
 
 705
 00:47:27,636 --> 00:47:31,389
-- Én is kaptam egy sms-t.
+- Én is kaptam egy SMS-t.
 - Nem, előbb nézzük Rocco email-jét.
 
 706
@@ -3384,7 +3384,7 @@ A salinai ház rendben van.
 
 710
 00:47:42,484 --> 00:47:45,403
-Akkor lássuk Carlotta sms-ét.
+Akkor lássuk Carlotta SMS-ét.
 
 711
 00:47:45,612 --> 00:47:48,656
