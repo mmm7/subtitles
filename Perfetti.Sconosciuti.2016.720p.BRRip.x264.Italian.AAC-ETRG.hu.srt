@@ -670,7 +670,7 @@ Vörös, vagy barna...
 143
 00:11:08,334 --> 00:11:11,336
 - Szőke.
-- Még az is megfordult a fejünkben,  hogy őszül.
+- Még az is megfordult a fejünkben, hogy őszül.
 
 144
 00:11:11,462 --> 00:11:13,463
@@ -2823,7 +2823,7 @@ de ő csak a taxi diszpécser.
 
 592
 00:39:35,164 --> 00:39:40,001
-Megvan? "Legyen a  Corso Rinascimento-n
+Megvan? "Legyen a Corso Rinascimento-n
 9 perc múlva."
 
 593
@@ -4094,7 +4094,7 @@ De valamit szeretnék elmondani.
 857
 00:56:59,207 --> 00:57:04,420
 Ez egy fontos pillanat,
-amire  egész életedben emlékezni fogsz.
+amire egész életedben emlékezni fogsz.
 
 858
 00:57:06,923 --> 00:57:10,467
