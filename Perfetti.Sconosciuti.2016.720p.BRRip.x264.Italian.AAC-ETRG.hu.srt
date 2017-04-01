@@ -650,7 +650,7 @@ De én igen.
 
 139
 00:10:55,655 --> 00:10:57,530
-- Semmiben..A szokásos dolgok.
+- Semmiben. A szokásos dolgok.
 - Mint például?
 
 140
@@ -5178,7 +5178,7 @@ Szia.
 1095
 01:17:24,264 --> 01:17:27,933
 - Bocs, ma nem kellett volna írnom?
-- Nem, minden OK.
+- Nem, minden oké.
 
 1096
 01:17:28,644 --> 01:17:31,187
@@ -5332,7 +5332,7 @@ nevezném a "kisebb rossznak".
 
 1128
 01:19:36,438 --> 01:19:40,900
-- OK, ennyi elég volt.
+- Oké, ennyi elég volt.
 - Miből volt elég, Lele?
 
 1129
@@ -5674,7 +5674,7 @@ legközelebb hozd el Lucilla-t.
 
 1204
 01:28:03,278 --> 01:28:06,280
-OK, amint jobban érzi magát.
+Oké, amint jobban érzi magát.
 Viszlát, jó éjszakát.
 
 1205
