@@ -1546,12 +1546,12 @@ Mit jelent?
 
 325
 00:22:09,953 --> 00:22:12,121
-A szám nincs benne a telefonomban ,
+A szám nincs benne a telefonomban,
 nem tudom.
 
 326
 00:22:12,873 --> 00:22:15,624
-Biztos rossz számra küldte ,
+Biztos rossz számra küldte,
 nem tudom.
 
 327
@@ -1627,7 +1627,7 @@ Ezt a faszt!.
 
 342
 00:23:15,894 --> 00:23:17,895
-Add ide a telefonom , mennem kell.
+Add ide a telefonom, mennem kell.
 
 343
 00:23:18,021 --> 00:23:19,939
@@ -1735,7 +1735,7 @@ olyan az ágyban, mint az első napokban.
 
 365
 00:24:32,387 --> 00:24:35,389
-Gyerekre megy a menet ,
+Gyerekre megy a menet,
 nem pedig...
 
 366
@@ -1764,7 +1764,7 @@ Nem tetszik az a gondolat, hogy az
 
 371
 00:24:55,410 --> 00:25:00,998
-Mikor gyereked van ,
+Mikor gyereked van,
 az élet többi dolga elfelejtődik.
 
 372
@@ -3003,7 +3003,7 @@ Akarsz? Miért?
 
 630
 00:42:12,780 --> 00:42:16,199
-Lehet, hogy időpocsékolás ,
+Lehet, hogy időpocsékolás,
 de ki akarok próbálni mindent.
 
 631
@@ -3188,7 +3188,7 @@ volt, most barátnők, szeretők...
 668
 00:45:13,460 --> 00:45:17,004
 Nem kell magyarázkodnod, Peppe.
-1 ,000 pont Peppének.
+1,000 pont Peppének.
 
 669
 00:45:17,131 --> 00:45:20,341
@@ -4269,7 +4269,7 @@ Ez megint a béka.
 
 895
 00:59:39,742 --> 00:59:43,120
-Válaszolj neki , talán akkor abbahagyja.
+Válaszolj neki, talán akkor abbahagyja.
 
 896
 00:59:43,246 --> 00:59:46,248
