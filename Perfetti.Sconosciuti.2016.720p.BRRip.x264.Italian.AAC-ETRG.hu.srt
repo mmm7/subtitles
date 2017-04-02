@@ -83,8 +83,8 @@ találkozunk a többiekkel.
 
 20
 00:02:32,152 --> 00:02:34,695
-- Gregorio is lehet hogy ott lesz.
-- Ez mire kell neked?
+- Lehet, hogy Gregorio is ott lesz.
+- Ez mire kell?
 
 21
 00:02:35,029 --> 00:02:38,157
@@ -135,7 +135,7 @@ Nem szokott hisztizni a nagyival.
 31
 00:03:10,732 --> 00:03:13,233
 - Mert elkényezteted.
-- Ez nem igaz!
+- Jaj, dehogyis!
 
 32
 00:03:13,484 --> 00:03:15,235
@@ -165,7 +165,7 @@ A lányod ontja magából a hazugságokat.
 
 38
 00:03:45,767 --> 00:03:48,227
-- Ez normális.
+- Ez teljesen normális.
 - Gregorioval jár.
 
 39
@@ -196,16 +196,16 @@ Néhányan még mindig hálásak.
 44
 00:04:11,918 --> 00:04:15,796
 - Próbálj meg egy kicsit kevésbé beleszólni.
-- De ő a lányom.
+- De hát ő a lányom.
 
 45
 00:04:16,005 --> 00:04:19,132
 - Nem tudok nem beleszólni.
-- Mindig kritizálod őt.
+- Folyton kritizálod őt.
 
 46
 00:04:19,676 --> 00:04:21,677
-Ő kritizál engem mindig!
+Ő kritizál mindig engem!
 
 47
 00:04:40,154 --> 00:04:42,072
@@ -215,7 +215,7 @@ Néhányan még mindig hálásak.
 48
 00:04:45,785 --> 00:04:48,704
 - Várj, otthagytam a telefonomat.
-- Siess, késő van már!
+- Siess, késő van!
 
 49
 00:05:10,601 --> 00:05:13,353
@@ -342,7 +342,7 @@ Nincs hangulatom hozzá hogy végighallgassam.
 
 75
 00:07:02,171 --> 00:07:05,424
-Akkor azt mondjuk, hogy én vettem,
+Akkor mondjuk azt, hogy én vettem,
 hogy engem piszkálhasson.
 
 76
@@ -373,7 +373,7 @@ Majd én nyitom.
 00:07:28,865 --> 00:07:32,367
 Csináltam tiramisut.
 Ne zárd be,
-Cosimo és Bianca már felfele tartanak.
+Cosimo és Bianca mindjárt jönnek.
 
 82
 00:07:32,493 --> 00:07:35,454
@@ -422,7 +422,7 @@ Neeee!
 
 92
 00:07:59,353 --> 00:08:02,898
-- Istenem, mi lenne, ha Rosaval történne ez..
+- Istenem, mi lenne, ha Rosával történne ez..
 - Rosa még hat éves sincs!
 
 93
@@ -460,13 +460,13 @@ Ti is bedőltetek...?
 
 100
 00:08:25,171 --> 00:08:28,131
-Visszafizessük neki?
+Megadjuk neki?
 Részletekben.
 
 101
 00:08:28,299 --> 00:08:31,301
 - Na és hogy képzeljük el az új bigét?
-- "Az új bige" neve Lucilla.
+- Az "új bige" neve Lucilla.
 
 102
 00:08:31,427 --> 00:08:36,264
@@ -514,7 +514,7 @@ Vigyázz a szádra, szöszi!
 
 111
 00:09:05,211 --> 00:09:08,213
-- Csak magad nevében beszélj, drága!
+- Csak a magad nevében beszélj, drágám!
 - Úgy értem, tényleg egy idős nő.
 
 112
@@ -525,7 +525,7 @@ Hogyan reagálnánk?
 113
 00:09:11,217 --> 00:09:16,346
 - Biztosan jobb, mint Manuela.
-- Ki se ejtsed a nevét!
+- Ne is emlegesd!
 
 114
 00:09:16,472 --> 00:09:20,225
@@ -534,17 +534,17 @@ Hogyan reagálnánk?
 
 115
 00:09:20,351 --> 00:09:22,978
-- Ő minden, csak nem csinos.
+- Minden, csak nem csinos.
 - Nem.
 
 116
 00:09:23,604 --> 00:09:27,857
 Most, hogy túl vagyunk rajta,
-Elmondhatom, hogy a rekedt hangjától
+elmondhatom, hogy a rekedt hangjától
 
 117
 00:09:28,067 --> 00:09:30,485
-beindultam kissé.
+kissé beindultam.
 
 118
 00:09:31,946 --> 00:09:34,239
@@ -641,16 +641,16 @@ Lázas lett.
 137
 00:10:49,523 --> 00:10:51,316
 - De Lucilla nincs itt.
-- Így van.
+- Nincs.
 
 138
 00:10:51,567 --> 00:10:55,528
 De én igen.
-És miben is maradtatok?
+És mit mondtatok?
 
 139
 00:10:55,655 --> 00:10:57,530
-- Semmiben. A szokásos dolgok.
+- Semmit. A szokásos dolgok.
 - Mint például?
 
 140
@@ -698,7 +698,7 @@ Hagyjátok békén!
 
 149
 00:11:24,975 --> 00:11:27,686
-Na már látom! Csodálatos!
+Na, most látom! Csodálatos!
 
 150
 00:11:29,188 --> 00:11:31,481
@@ -721,7 +721,7 @@ mondasz nekünk valamit róla?
 
 154
 00:11:41,450 --> 00:11:43,368
-Honnan is tudjam...
+Honnan tudjam...
 
 155
 00:11:43,744 --> 00:11:47,247
@@ -735,7 +735,7 @@ ha szerelmes vagy?
 
 157
 00:11:50,751 --> 00:11:54,754
-Elmondom akkor. Ha legalább fél órát
+Akkor elmondom. Ha legalább fél órát
 beszélsz vele egy nap, akkor szereted.
 
 158
@@ -745,13 +745,13 @@ beszélsz vele egy nap, akkor szereted.
 
 159
 00:11:59,510 --> 00:12:02,137
-Aztán ha nem beszéltek,
+Ha pedig nem beszéltek,
 az azt jelenti, hogy házasok vagytok.
 
 160
 00:12:02,263 --> 00:12:06,516
 - Mennyi ideje vagytok együtt?
-- Egy ideje. Pár hónap.
+- Már egy ideje. Pár hónapja.
 
 161
 00:12:06,642 --> 00:12:10,478
@@ -870,7 +870,7 @@ hozni a tengertől.
 
 185
 00:13:27,598 --> 00:13:31,226
-Itt 7.50 eurót kérnek
+Itt 7.50 Eurót kérnek
 egy ekkora üvegért.
 
 186
@@ -881,16 +881,16 @@ a hegyi birtokon.
 187
 00:13:36,190 --> 00:13:39,234
 - Kapribogyót a hegyekben?
-- Igen! 7.50 euró!
+- Igen! 7.50 Euró!
 
 188
 00:13:39,485 --> 00:13:42,821
-Kérlek, semmi
+Kérlek, csak semmi
 kapribogyó termesztés!
 
 189
 00:13:43,113 --> 00:13:45,365
-Nevess, ha akarsz,
+Kinevethetsz, de
 ez akkor is jó üzlet.
 
 190
@@ -953,7 +953,7 @@ Honnan tudtuk volna?
 
 202
 00:14:26,782 --> 00:14:29,784
-Tehát azt mondod, ha tudnánk róla,
+Tehát azt mondod, ha tudtunk volna róla,
 
 203
 00:14:30,369 --> 00:14:34,873
@@ -981,7 +981,7 @@ téged fognak hibáztatni,
 
 208
 00:14:47,177 --> 00:14:48,803
-amiért bele ütöd az orrod.
+amiért bele ütötted az orrod.
 
 209
 00:14:49,179 --> 00:14:52,181
@@ -1058,7 +1058,7 @@ Igen és függőséget is okoznak.
 223
 00:15:38,354 --> 00:15:41,731
 - Feleség és gyerekek nélkül.
-- És egy 22 éves barátnő.
+- És egy 22 éves barátnővel.
 
 224
 00:15:41,857 --> 00:15:44,984
@@ -1092,7 +1092,7 @@ a feleségemnek kellett fizetnie tartásdíjat.
 230
 00:16:02,628 --> 00:16:06,965
 Igaz, hogy az ügyvédek aljasok, de tudják,
-mennyit keres egy torna tanár.
+mennyit keres egy tornatanár.
 
 231
 00:16:07,466 --> 00:16:12,512
@@ -1130,11 +1130,11 @@ Fiatal lányt kefél,
 238
 00:16:34,034 --> 00:16:38,913
 - Az SMS-sel, vagy hogy ne legyen szar alak?
-- Ne kötözködj velem!
+- Ne kötözködj már!
 
 239
 00:16:40,499 --> 00:16:43,793
-Lele, kérem a padlizsán pástétomot.
+Lele, kérem a padlizsán-pástétomot.
 Forró!
 
 240
@@ -1193,7 +1193,7 @@ találod benne
 251
 00:17:38,307 --> 00:17:41,851
 - Miért téged kérdez?
-- Miért te fel szoktad venni, ha ő keres?
+- Miért, te fel szoktad venni, ha ő keres?
 
 252
 00:17:41,977 --> 00:17:45,855
@@ -1216,7 +1216,7 @@ Csak néhány cicit és popót fogsz találni,
 
 256
 00:17:57,076 --> 00:17:59,118
-de kizárólag a munkához kellenek.
+de kizárólag a munkámhoz kellenek.
 
 257
 00:18:00,621 --> 00:18:04,082
@@ -1224,7 +1224,7 @@ Szóval, szerinted egyikünknek sincsenek titkai?
 
 258
 00:18:07,503 --> 00:18:11,005
-- Csupa szent, persze Diego-n kívül?
+- Csupa szent, persze Diego-t kivéve?
 - Eva, mi...
 
 259
@@ -1234,8 +1234,8 @@ Szóval, szerinted egyikünknek sincsenek titkai?
 
 260
 00:18:15,636 --> 00:18:19,764
-Igen, reméljük, lappang néhány titok,
-különben dögunalom!
+Igen, de azért reméljük, hogy lappang
+néhány titok, különben dögunalom!
 
 261
 00:18:19,973 --> 00:18:22,642
@@ -1249,8 +1249,8 @@ különben dögunalom!
 
 263
 00:18:29,024 --> 00:18:32,026
-Gyerünk, tegyük ki mind
-a telefonjainkat az asztalra!
+Gyerünk, mindenki tegye ki a
+telefonját az asztalra!
 
 264
 00:18:34,530 --> 00:18:36,906
@@ -1295,7 +1295,7 @@ bármi érkezik, együtt nézzük meg.
 272
 00:19:03,559 --> 00:19:06,769
 - Jó játék.
-- Nem hinném.
+- Szerintem nem.
 
 273
 00:19:08,147 --> 00:19:09,564
@@ -1318,7 +1318,7 @@ nem javasoltam volna ezt a játékot.
 277
 00:19:18,073 --> 00:19:20,908
 Vagy igen,
-és azt akarod, hogy megtudjuk.
+mert azt akarod, hogy megtudjuk.
 
 278
 00:19:21,451 --> 00:19:24,579
@@ -1332,7 +1332,7 @@ hogy megtalálják őket.
 
 280
 00:19:27,958 --> 00:19:31,085
-Csináljuk! Ha meguntuk, abba hagyhatjuk.
+Csináljuk! Ha meguntuk, abbahagyhatjuk.
 
 281
 00:19:31,211 --> 00:19:36,549
@@ -1379,7 +1379,7 @@ az asztalon tartani a telefont.
 290
 00:20:09,708 --> 00:20:14,503
 - Igen, Diego mindig kikapcsolja.
-- Lele kijelzővel lefele teszi.
+- Lele kijelzővel lefelé teszi.
 
 291
 00:20:17,633 --> 00:20:19,759
@@ -1388,7 +1388,7 @@ az asztalon tartani a telefont.
 
 292
 00:20:19,885 --> 00:20:22,094
-Gondolod, hogy nem vettem észre?
+Azt hiszed, nem vettem észre?
 
 293
 00:20:23,722 --> 00:20:26,974
@@ -1398,7 +1398,7 @@ Előveszem a telefonom és leteszem.
 294
 00:20:27,100 --> 00:20:30,102
 Ha összekarcoljátok a kijelzőjét,
-200 euróba kerül egy másik.
+200 Euróba kerül egy másik.
 
 295
 00:20:30,270 --> 00:20:33,022
@@ -1428,7 +1428,7 @@ de bármit megnézhettek.
 300
 00:20:50,040 --> 00:20:54,794
 Gyerünk, lássuk, mi lesz!
-Ti nem gondoljátok, hogy ez marhaság?
+Nem gondoljátok, hogy ez marhaság?
 
 301
 00:20:55,170 --> 00:20:59,131
@@ -1465,7 +1465,7 @@ Kaphatnék egy kis pénzt?
 308
 00:21:17,943 --> 00:21:22,571
 - Miért nem kérdezted meg odabent?
-- Nem anya előtt.
+- Nem akartam anya előtt.
 
 309
 00:21:24,074 --> 00:21:26,575
@@ -1483,7 +1483,7 @@ Vitatkoztatok?
 
 312
 00:21:31,957 --> 00:21:35,584
-Emlékszem, mikor Circeo-ban
+Emlékszem, mikor a Circeo-ban
 ünnepeltük a szülinapját.
 
 313
@@ -1503,13 +1503,13 @@ ahogy mondják.
 
 316
 00:21:44,553 --> 00:21:47,054
-- " Ez egy tanya volt... "
-- " A feketék vérében van a ritmus. "
+- "Ez egy tanya volt..."
+- "A feketéknek a vérében van a ritmus."
 
 317
 00:21:47,222 --> 00:21:49,849
-Ne feledd :
-" Pippo Baudo jó a munkájában ".
+És még:
+"Pippo Baudo nagyon jó."
 
 318
 00:21:49,975 --> 00:21:53,477
@@ -1528,7 +1528,7 @@ Igen.
 321
 00:21:59,985 --> 00:22:03,112
 "A testedet akarom"?
-Kitol van?
+Kitől jött?
 
 322
 00:22:03,238 --> 00:22:06,365
@@ -1537,7 +1537,7 @@ Kitol van?
 
 323
 00:22:06,616 --> 00:22:07,992
-Mit jelent?
+Ez mit jelentsen?
 
 324
 00:22:08,118 --> 00:22:09,744
@@ -1546,7 +1546,7 @@ Mit jelent?
 
 325
 00:22:09,953 --> 00:22:12,121
-A szám nincs benne a telefonomban,
+A szám nincs a telefonomban,
 nem tudom.
 
 326
@@ -1598,7 +1598,7 @@ Ezt a faszt!.
 336
 00:22:54,664 --> 00:22:57,750
 - Normális vagy?
-- Csak egy poén volt.
+- Csak vicc volt.
 
 337
 00:22:57,918 --> 00:23:00,127
@@ -1617,7 +1617,7 @@ Ezt a faszt!.
 
 340
 00:23:05,801 --> 00:23:09,303
-- Csak viccelődtem.
+- Csak vicceltem.
 - Tudtam, hogy csak vicc.
 
 341
@@ -1655,7 +1655,7 @@ Ennyi idősen kibírhatatlanok.
 
 348
 00:23:33,703 --> 00:23:36,080
-- Milyen voltál, amikor ennyi idősen?
+- Milyen voltál ennyi idősen?
 - Én?
 
 349
@@ -1665,7 +1665,7 @@ Ennyi idősen kibírhatatlanok.
 
 350
 00:23:41,086 --> 00:23:44,213
-Ó... segíts, milyen is volt?
+Ó... hát, milyen is volt?
 
 351
 00:23:44,798 --> 00:23:46,799
@@ -1679,12 +1679,12 @@ szeretett: a focit, és még valamit.
 353
 00:23:52,097 --> 00:23:55,307
 - Ne hallgass rá, drágám.
-- Az anyja kétségbeesett volt.
+- Az anyja teljesen el volt keseredve.
 
 354
 00:23:55,684 --> 00:23:57,726
 - Őrült.
-- Amíg az anyjuk boldog volt.
+- Az anyjuk meg boldog volt.
 
 355
 00:23:58,353 --> 00:24:01,063
@@ -1722,7 +1722,7 @@ az első fogást sem, és már így állunk?
 362
 00:24:23,003 --> 00:24:26,088
 Mi rosszat mondtam?
-Nem gondolom, hogy valaki felháborodik.
+Nem hinném, hogy ezen itt valaki felháborodik.
 
 363
 00:24:26,256 --> 00:24:27,214
@@ -1740,12 +1740,12 @@ nem pedig...
 
 366
 00:24:35,765 --> 00:24:39,894
-Mondjunk egy szabályosabb köszöntőt. A gyerekekre, aki
-értelmet adnak az életünknek.
+Mondjunk egy józanabb köszöntőt. A gyerekekre,
+akik értelmet adnak az életünknek.
 
 367
 00:24:40,020 --> 00:24:42,897
-De gáz, jobban tetszett
+Ez gáz, nekem jobban tetszett
 a kefélős köszöntő.
 
 368
@@ -1789,21 +1789,21 @@ a boldogságot valaki mástól várja.
 
 376
 00:25:16,014 --> 00:25:19,266
-- Fájdalmasan hülye vagy.
+- Hülye vagy.
 - A múltkor is, amikor Istenről vitatkoztunk.
 
 377
 00:25:19,392 --> 00:25:23,312
 Végül is ugyanaz.
-Én nem kérek a segítségekből.
+Én nem kérek a segítségükből.
 
 378
 00:25:23,396 --> 00:25:26,148
-Én akarok lenni az életem értelme.
+Én akarok lenni a saját életem értelme.
 
 379
 00:25:26,274 --> 00:25:29,818
-Önző vagyok, és így fogok meghalni.
+Önző vagyok, és az is maradok.
 Igyunk rá!
 
 380
@@ -1835,7 +1835,7 @@ Több is lehetett volna.
 385
 00:25:51,091 --> 00:25:54,218
 Egyetértek Roccoval
-Lehet, hogy hülyének nézik,
+Lehet, hogy hülyének néztek,
 
 386
 00:25:54,344 --> 00:25:57,846
@@ -1855,17 +1855,17 @@ Ilyenkor boldognak érzem magam...
 
 389
 00:26:07,190 --> 00:26:10,109
-- Azt mondta, boldog.
+- Azt mondta, "boldog"?
 - Visszhangzott.
 
 390
 00:26:10,235 --> 00:26:15,239
-Újra megkérdezünk, amikor
+Majd újra megkérdezünk, amikor
 16 évesen elküld a francba.
 
 391
 00:26:15,448 --> 00:26:20,619
-Ne mondd ezt, és az igaz,
+Ne mondd ezt! És az igaz,
 a gyerektől kapsz egy második esélyt.
 
 392
@@ -1881,7 +1881,7 @@ egyszer újraélni az életem.
 394
 00:26:28,461 --> 00:26:32,381
 Mert a te életed egy nagy szar volt.
-Nem vicceltem.
+És ez nem vicc.
 
 395
 00:26:34,843 --> 00:26:37,136
@@ -1935,8 +1935,8 @@ Nem vicceltem.
 
 405
 00:27:06,249 --> 00:27:10,044
-- Hello, Marta.
-- Hello, mindenki. Oké...
+- Helló, Marta!
+- Sziasztok. Oké...
 
 406
 00:27:10,295 --> 00:27:14,048
@@ -1974,7 +1974,7 @@ egy magániskolában.
 413
 00:27:33,151 --> 00:27:38,072
 - Nem lehetsz ilyen válogatós mostanában.
-- Szép lenne a tenger mellett dolgozni.
+- Szép lenne a tengernél dolgozni.
 
 414
 00:27:38,198 --> 00:27:40,908
@@ -1983,7 +1983,7 @@ ha Anzióba költözhetnék.
 
 415
 00:27:43,578 --> 00:27:45,287
-Nem értettem.
+Tessék?
 
 416
 00:27:45,455 --> 00:27:48,082
@@ -1992,7 +1992,7 @@ Nem értettem.
 
 417
 00:27:49,084 --> 00:27:50,959
-Igen, miért nem?
+Igen! Miért ne?
 
 418
 00:27:51,086 --> 00:27:53,921
@@ -2010,7 +2010,7 @@ hogy Peppét bátorítsam.
 
 421
 00:28:02,597 --> 00:28:06,100
-- Tudod, ő nem egy gyerek.
+- Tudod, már nem gyerek.
 - Elküldtem az önéletrajzom mindenhová.
 
 422
@@ -2035,12 +2035,12 @@ dolgoztál az elmúlt 10 évben.
 
 426
 00:28:23,451 --> 00:28:28,497
-- Ez nem törvényes, ezért perelhetnél.
+- Ez nem törvényes, beperelhetnéd őket.
 - Köszönöm, de nincs szükségem segítségre.
 
 427
 00:28:28,623 --> 00:28:32,626
-Magam akarom ezt megoldani
+Magam szeretném ezt megoldani
 mindenféle nyomás nélkül.
 
 428
@@ -2066,11 +2066,11 @@ vettem egy taxit.
 432
 00:28:50,145 --> 00:28:53,522
 És megyek tovább, meghirdettem
-a taxi engedélyem eladásra.
+a taxi-engedélyem eladásra.
 
 433
 00:28:54,357 --> 00:28:57,651
-- Még el se kezdtél érte fizetni.
+- Még el se kezdted fizetni a részlezeket.
 - Te eladod?
 
 434
@@ -2105,18 +2105,18 @@ A taxik hamarosan ki fognak halni.
 
 440
 00:29:20,175 --> 00:29:23,677
-- Így én a jövőbe tekintek.
+- Én a jövőbe tekintek!
 - Mint az elektromos cigivel.
 
 441
 00:29:25,388 --> 00:29:30,392
 - Akkor pont pechje volt.
-- A dohánylobbit hibáztatom.
+- A dohánylobbi a hibás.
 
 442
 00:29:30,518 --> 00:29:35,063
 Ők pénzelték a nicaraguai
-forradalmat.
+forradalmat is.
 
 443
 00:29:35,273 --> 00:29:40,068
@@ -2125,7 +2125,7 @@ forradalmat.
 
 444
 00:29:40,278 --> 00:29:43,322
-- De legalább én megpróbáltam.
+- De én legalább megpróbáltam.
 - Mint amikor Yorkshire-eket tenyésztettél.
 
 445
@@ -2214,13 +2214,13 @@ Rómában meg tudnak operálni.
 
 463
 00:30:52,767 --> 00:30:55,727
-Havonta kétszer jön le
+Havonta kétszer jön át
 a Quisisana Klinikára.
 
 464
 00:30:56,104 --> 00:30:58,146
-Elküldöm neked a számát,
-hívd majd fel.
+Átküldöm a számát,
+hívd majd fel!
 
 465
 00:30:58,273 --> 00:31:01,358
@@ -2262,12 +2262,12 @@ Cickóműtétem lesz.
 
 473
 00:31:31,389 --> 00:31:37,185
-- Akkor meg kéne azokat szerettetned magaddal.
+- Inkább meg kéne szeretned a melleidet.
 - A terapeutáknak el kéne fogadniuk magukat.
 
 474
 00:31:37,645 --> 00:31:41,398
-Aki cickóműtétben vesz részt.
+Aki cickóműtétet csináltat,
 az nem fogadja el magát?
 
 475
@@ -2277,7 +2277,7 @@ Nem.
 476
 00:31:46,195 --> 00:31:50,324
 - A melleim kivételével mindent elfogadok.
-- Hadd csinálja Rocco.
+- Akkor csinálja Rocco!
 
 477
 00:31:50,533 --> 00:31:53,285
@@ -2286,7 +2286,7 @@ Nem.
 
 478
 00:31:53,453 --> 00:31:55,579
-Mert apja nem szerette volna.
+Mert az apja nem szerette volna.
 
 479
 00:31:56,789 --> 00:32:01,585
@@ -2305,13 +2305,13 @@ csinál cici- és fenékműtéteket.
 
 482
 00:32:11,304 --> 00:32:14,348
-Kettőt csinálok egyért:
+Nálam egyet fizet, kettőt kap:
 két mell egy áráért.
 
 483
 00:32:15,808 --> 00:32:17,684
 - Befejezted?
-- Pedig igaz.
+- Pedig tényleg.
 
 484
 00:32:17,852 --> 00:32:20,354
@@ -2335,7 +2335,7 @@ Elvesztenél minden szexuális vonzalmat.
 00:32:29,364 --> 00:32:32,824
 - Egyetértek Evával.
 - Egy kicsit olyan, mint amikor főzöl,
-elmegy az étvágyad.
+és elmegy az étvágyad.
 
 489
 00:32:32,992 --> 00:32:35,744
@@ -2354,7 +2354,7 @@ az apja idiótának tart.
 
 492
 00:32:42,752 --> 00:32:46,213
-- Ez nem igaz.
+- Dehogyis!
 - Egy szívsebészt szeretett volna a lányának.
 
 493
@@ -2374,7 +2374,7 @@ az egyiket és a férjed a másikat?
 
 496
 00:32:58,768 --> 00:33:03,355
-Nem, apuci hadd találja ki:
+Aztán apuci hadd találja ki:
 "Melyik Blanchard munkája?"
 
 497
@@ -2398,7 +2398,7 @@ Elképzelhetetlen, igaz?
 
 501
 00:33:22,542 --> 00:33:27,546
-Nem érted, egyáltalán az elképzelhetetlen
+Nem érted! Már az elképzelhetetlen
 számára, hogy terápiára menjen!
 
 502
@@ -2450,12 +2450,13 @@ Azt gondolod, hogy a munkám időpazarlás.
 
 512
 00:34:06,961 --> 00:34:10,297
-Nem, azt gondolom, hogy nagyon hasonló munkát csinálunk.
+Nem. Én azt gondolom, hogy nagyon
+hasonló munkát csinálunk.
 
 513
 00:34:10,465 --> 00:34:13,046
-Te a agyakat teszed rendbe, én meg a ciciket
-Boldogabbá tesszük az embereket,
+Te az agyakat teszed rendbe, én meg a ciciket.
+Boldogabbá tesszük az embereket.
 
 514
 00:34:13,593 --> 00:34:17,345
@@ -2464,7 +2465,7 @@ nekem néhány órámba.
 
 515
 00:34:19,682 --> 00:34:21,433
-- Kié ez?
+- Kié?
 - Nem az enyém.
 
 516
@@ -2485,7 +2486,7 @@ nekem néhány órámba.
 519
 00:34:31,986 --> 00:34:34,112
 - Megyek cigizni.
-- Megyek Veled.
+- Megyek veled.
 
 520
 00:34:44,457 --> 00:34:48,085
@@ -2494,7 +2495,7 @@ nekem néhány órámba.
 
 521
 00:34:52,090 --> 00:34:55,342
-- Peppe, Van egy problémám.
+- Peppe, van egy problémám.
 - Micsoda?
 
 522
@@ -2517,7 +2518,7 @@ Küld egy képet.
 
 526
 00:35:12,401 --> 00:35:14,653
-- Küld neked egy képet!
+- Küld egy képet!
 - Egy képet.
 
 527
@@ -2539,7 +2540,7 @@ Szeretném, ha kisegítenél.
 531
 00:35:27,166 --> 00:35:31,795
 - Hogyan tudnék segíteni?
-- Ugyanolyan telefonjaink vannak.
+- Ugyanolyan telefonunk van.
 
 532
 00:35:32,421 --> 00:35:34,923
@@ -2549,7 +2550,7 @@ csak amíg a fotó megérkezik.
 533
 00:35:35,049 --> 00:35:38,176
 - Akkor én fogom megkapni a képet. Ugyan már!
-- De Te szingli vagy.
+- De te szingli vagy.
 
 534
 00:35:38,553 --> 00:35:40,762
@@ -2574,7 +2575,7 @@ Azt akarod, hogy elszabaduljon a pokol?
 
 539
 00:35:53,818 --> 00:35:57,445
-Peppe nem akar,
+Peppének nincs kedve,
 úgyhogy tönkretesz egy egész családot.
 
 540
@@ -2625,16 +2626,16 @@ Komolyan mondod?
 
 550
 00:36:54,003 --> 00:36:55,962
-Ki mondta Neked?
+Kitől tudod?
 
 551
 00:36:56,088 --> 00:36:58,965
-Lele.
+Lelétől.
 De ne szólj egy szót se, rendben?
 
 552
 00:37:00,718 --> 00:37:02,886
-Kié az a telefon? Enyém?
+Kié az a telefon? Az enyém?
 
 553
 00:37:03,763 --> 00:37:05,764
@@ -2647,7 +2648,7 @@ Ki az?
 
 555
 00:37:11,646 --> 00:37:15,023
-- Azt hiszem ő meghalt.
+- Azt hittem, ő meghalt.
 - És miért hívná a feleségem?
 
 556
@@ -2686,15 +2687,15 @@ Válaszolj! Ne légy bolond!
 563
 00:37:37,797 --> 00:37:41,800
 - Hogyhogy ilyen későn is dolgozik?
-- Túlóra, túl sok a vírus.
+- Túlóra, sok a vírus.
 
 564
 00:37:43,302 --> 00:37:47,055
-Holnap 7:00 körül elmehetek érte?
+Holnap reggel 7 körül elmehetek érte?
 
 565
 00:37:47,181 --> 00:37:50,058
-- Jól hangzik.
+- Igen.
 - Holnap találkozunk.
 
 566
@@ -2708,8 +2709,7 @@ A számítógépes pasas volt.
 
 568
 00:37:55,815 --> 00:37:58,692
-A szerelőt meg
-"Marchionne"-nak?
+A szerelőt meg "Marchionne"-nak?
 
 569
 00:38:01,279 --> 00:38:05,699
@@ -2728,13 +2728,13 @@ A szerelőt meg
 
 572
 00:38:14,458 --> 00:38:17,919
-- Kétségtelenül.
+- Úgy tűnik.
 - Én nem kaptam üzenetet.
 
 573
 00:38:18,963 --> 00:38:22,173
 Átjön mindjárt,
-csak biztos később.
+biztos késik.
 
 574
 00:38:22,550 --> 00:38:24,926
@@ -2771,7 +2771,7 @@ ha kell egy alacsony kapus.
 581
 00:38:49,243 --> 00:38:53,371
 - Tényleg ezt csináljátok?
-- Ez nem igaz.
+- Dehogyis.
 
 582
 00:38:53,748 --> 00:38:55,123
@@ -2808,8 +2808,8 @@ Marika.
 
 589
 00:39:21,650 --> 00:39:26,029
-- Három felkiáltó jel.
-- Ki az a Marika, mi olyan sürgős?
+- Három felkiáltójel.
+- Ki az a Marika és mi olyan sürgős?
 
 590
 00:39:26,864 --> 00:39:29,157
@@ -2819,7 +2819,7 @@ Marika.
 591
 00:39:29,784 --> 00:39:33,661
 Sajnálom, hogy csalódást kell okoznom,
-de ő csak a taxi diszpécser.
+de csak a taxi diszpécser.
 
 592
 00:39:35,164 --> 00:39:40,001
@@ -2832,7 +2832,7 @@ Hívd vissza, kíváncsiak vagyunk rá.
 
 594
 00:39:44,048 --> 00:39:48,009
-most eszünk, ő meg biztosan azt akarja, hogy
+Most eszünk, ő meg biztosan azt akarja, hogy
 helyettesítsek valakit.
 
 595
@@ -2848,11 +2848,11 @@ helyettesítsek valakit.
 597
 00:39:57,937 --> 00:40:01,064
 Ha nekem helyettesítenem kéne,
-Tönkremenne a hétvégém.
+tönkremenne a hétvégém.
 
 598
 00:40:01,190 --> 00:40:05,193
-- A szüleimnél leszünk vasárnap.
+- A szüleimhez megyünk vasárnap.
 - Akkor megmentette a hétvégédet.
 
 599
@@ -2901,7 +2901,7 @@ le tudsz adni vele.
 608
 00:40:47,486 --> 00:40:50,113
 - Most kell csinálnod?
-- Bármikor amikor jelez.
+- Mindig, amikor jelez.
 
 609
 00:40:50,448 --> 00:40:53,074
@@ -2931,7 +2931,7 @@ megettél fél kiló krumplinudlit fél perc alatt?
 614
 00:41:09,133 --> 00:41:14,220
 Ez pompás. Hol találtad?
-Nekem is kell ez.
+Nekem is kéne.
 
 615
 00:41:15,264 --> 00:41:18,892
@@ -2977,7 +2977,7 @@ Miért nem mondtad el?
 
 624
 00:41:52,927 --> 00:41:54,928
-Hát az elég hosszú.
+Hát az azért elég hosszú idő...
 
 625
 00:41:56,138 --> 00:41:58,264
@@ -2999,7 +2999,7 @@ Nem tudom, kicsit.
 
 629
 00:42:09,944 --> 00:42:12,445
-Akarsz? Miért?
+Akarsz? És miért?
 
 630
 00:42:12,780 --> 00:42:16,199
@@ -3013,7 +3013,7 @@ nem mondhatjuk, hogy nem próbáltuk meg.
 
 632
 00:42:26,293 --> 00:42:30,046
-- És ez működik?
+- És működik?
 - Nem tudom, te tudod.
 
 633
@@ -3077,7 +3077,7 @@ Te tele műanyaggal
 
 645
 00:43:49,918 --> 00:43:51,919
-Isa Clementinitol.
+Isa Clementinitől.
 
 646
 00:43:52,046 --> 00:43:56,007
@@ -3106,17 +3106,17 @@ El fogod törni.
 651
 00:44:10,064 --> 00:44:12,940
 - Ez magánügy.
-- Ma este mindenki megoszt.
+- Ma este mindent megosztunk.
 
 652
 00:44:13,400 --> 00:44:15,652
-- Lássuk.
-- Mutasd meg vagy felállok...
+- Lássuk!
+- Mutasd meg, vagy felállok...
 
 653
 00:44:17,196 --> 00:44:20,156
-- Mutasd meg a képet.
-- Vedd le a kezed!
+- Mutasd meg a képet!
+- Vedd le a kezed róla!
 
 654
 00:44:20,324 --> 00:44:23,076
@@ -3134,17 +3134,17 @@ A mindenit, Peppe.
 657
 00:44:30,459 --> 00:44:32,710
 - Mi az?
-- Nem semmi.
-- Hadd lássam.
+- Nem semmi!
+- Hadd lássam!
 
 658
 00:44:32,961 --> 00:44:36,339
-- Csak egy másodperc!
+- Pillanat!
 - Rocco! Ezt látnod kell.
 
 659
 00:44:36,674 --> 00:44:41,552
-Te aki benne vagy a szakmában.
+Te, aki benne vagy a szakmában.
 Hogyan kell ezt nézni?
 
 660
@@ -3178,22 +3178,22 @@ ilyen barátnőm lenne?
 666
 00:45:02,491 --> 00:45:06,202
 - Pilates-ezik.
-- Nem, a Nap Üdvözlés.
+- Nem, ez a Nap Üdvözlés.
 
 667
 00:45:08,455 --> 00:45:13,251
 Peppének a válás után évekig nem
-volt, most barátnők, szeretők...
+volt senkije, most meg barátnők, szeretők...
 
 668
 00:45:13,460 --> 00:45:17,004
 Nem kell magyarázkodnod, Peppe.
-1,000 pont Peppének.
+1000 pont Peppének.
 
 669
 00:45:17,131 --> 00:45:20,341
 - Ja, így-így.
-- Hurrá Miss Clementini-nek.
+- Éljen Miss Clementini!
 
 670
 00:45:22,010 --> 00:45:24,470
@@ -3247,7 +3247,7 @@ Miért kérdezi, hogy hogy vagy?
 681
 00:45:53,417 --> 00:45:57,253
 Mert ma elvesztettem a fejem
-a Basilicata ügy kapcsán.
+a Basilicata ügy kapcsán,
 
 682
 00:45:57,421 --> 00:45:59,130
@@ -3284,17 +3284,17 @@ Annyit kell mondanod, hogy
 689
 00:46:21,695 --> 00:46:24,697
 - Igaz.
-- Miért? Nincs otthon.
+- Miért? Nincs is otthon.
 
 690
 00:46:26,408 --> 00:46:28,701
 - Igaz.
-- Csak mondtam...
+- Csak azt, mondtam...
 
 691
 00:46:28,827 --> 00:46:33,664
 Akkor írd, hogy "Jól, köszi.
-Vacsorázom a barátokkal."
+Vacsorázom a barátaimmal."
 
 692
 00:46:33,791 --> 00:46:37,293
@@ -3317,7 +3317,7 @@ Most meg: "Hol vagy?"
 
 696
 00:46:50,182 --> 00:46:53,726
-- Nem, azt kérdezte "hogy vagy?"
+- Nem. Azt kérdezte, hogy: "hogy vagy?"
 - Ez az én dolgom!
 
 697
@@ -3337,13 +3337,12 @@ Miért?
 
 700
 00:47:05,572 --> 00:47:08,115
-Elveszik a magánszféránkat
-tőlünk.
+Elveszik a magánszféránkat.
 
 701
 00:47:08,325 --> 00:47:12,119
 És mi tesszük ezt lehetővé,
-nap nap után, anélkül hogy realizálnánk.
+nap nap után, anélkül hogy észrevennénk.
 
 702
 00:47:17,125 --> 00:47:19,836
@@ -3388,7 +3387,7 @@ Akkor lássuk Carlotta SMS-ét.
 
 711
 00:47:45,612 --> 00:47:48,656
-Nem, én akarok felolvasni egyet.
+Nem, most én akarok felolvasni egyet.
 
 712
 00:47:49,783 --> 00:47:53,160
@@ -3396,7 +3395,7 @@ Tanultam valamit, amit meg akarok...
 
 713
 00:47:53,370 --> 00:47:55,663
-Siri, olvass emailt.
+Siri, az új email-t!
 
 714
 00:47:57,165 --> 00:47:59,166
@@ -3414,7 +3413,7 @@ Milyen email?
 
 717
 00:48:05,382 --> 00:48:07,425
-Siri, olvasd az üzenetet.
+Siri, az új üzenetet!
 
 718
 00:48:10,512 --> 00:48:15,266
@@ -3433,8 +3432,8 @@ az ön számára júniusban.
 
 721
 00:48:20,564 --> 00:48:24,525
-Ezen időszakra 25
-százalékos kedvezményt ajánlunk.
+Most 25 százalékos
+kedvezményt ajánlunk.
 
 722
 00:48:24,693 --> 00:48:27,570
@@ -3453,7 +3452,7 @@ La Quiete Home Idősek Otthona.
 
 725
 00:48:36,455 --> 00:48:39,415
-Kinek van szüksége üzenetekre ebben az időben?!
+Kinek küld üzenetet ilyen későn?!
 Ezek őrültek!
 
 726
@@ -3502,7 +3501,7 @@ Ez egy ötcsillagos intézmény.
 
 735
 00:49:10,364 --> 00:49:13,366
-El se mentettem a számot.
+El sem mentettem a számot.
 
 736
 00:49:15,577 --> 00:49:17,620
@@ -3544,7 +3543,7 @@ Mi de?
 744
 00:49:39,977 --> 00:49:42,853
 köztünk is megváltozott valami.
-Valld be.
+Valld be!
 
 745
 00:49:44,898 --> 00:49:48,734
@@ -3554,7 +3553,7 @@ problémáinkért, aki egy kis szobában
 746
 00:49:48,860 --> 00:49:52,405
 alszik a folyosó végén.
-Igen, ez lehetséges.
+Igen, persze...
 
 747
 00:49:52,781 --> 00:49:56,659
@@ -3606,7 +3605,7 @@ anyád, mint a saját apám.
 
 757
 00:50:34,781 --> 00:50:38,325
-- Egyértelműen nem eleget.
+- Egyértelműen nem elégszer.
 - Anyád nem valami kirobbanóan
 elbűvölő személyiség.
 
@@ -3622,7 +3621,7 @@ kissé nehéz tud lenni.
 
 760
 00:50:47,461 --> 00:50:49,587
-- Menjünk és nézzük a holdfogyatkozást.
+- Menjünk és nézzük meg a holdfogyatkozást!
 - Igen!
 
 761
@@ -3678,7 +3677,7 @@ aztán eltűnik.
 
 771
 00:51:24,831 --> 00:51:29,877
-Figyel, bocs az előzőért,
+Figyelj, bocs az előzőért,
 anélkül mondtam, hogy gondolkodtam volna.
 
 772
@@ -3693,12 +3692,12 @@ miért nyűgöznek le bennünket annyira.
 
 774
 00:51:43,642 --> 00:51:46,894
-- A Hold sötét oldala!
-- Micsoda szám!
+- A Hold sötét oldala! The dark side of the Moon.
+- Az mekkora lemez!
 
 775
 00:51:53,026 --> 00:51:55,277
-Csináljunk egy fotót, gyertek ide.
+Csináljunk egy fotót, gyertek ide!
 
 776
 00:51:56,404 --> 00:51:57,863
@@ -3712,7 +3711,7 @@ Csináljunk egy fotót, gyertek ide.
 
 778
 00:52:03,870 --> 00:52:06,664
-Várj, drágám, csinálom. Tartsatok ki...
+Várj, drágám, csinálom. Mindjárt...
 
 779
 00:52:06,915 --> 00:52:09,917
@@ -3725,12 +3724,12 @@ Várj, drágám, csinálom. Tartsatok ki...
 
 781
 00:52:14,506 --> 00:52:17,299
-- Ő meg mit akar péntek este?
+- Mit akar péntek este?
 - Nem tudom.
 
 782
 00:52:17,551 --> 00:52:18,676
-- Ki Ivano?
+- Ki az az Ivano?
 - Az ex-e.
 
 783
@@ -3746,7 +3745,7 @@ Várj, drágám, csinálom. Tartsatok ki...
 785
 00:52:27,435 --> 00:52:31,814
 - Miért úgy mentetted el a számát, hogy Ivano?
-- Hogyan másként tehettem volna? Ez a neve.
+- Hogyan kellett volna? Ez a neve.
 
 786
 00:52:32,023 --> 00:52:34,525
@@ -3755,7 +3754,7 @@ Várj, drágám, csinálom. Tartsatok ki...
 
 787
 00:52:34,693 --> 00:52:36,569
-- Pompás!
+- Pontosan!
 - Az ex-ek veszélyesek.
 
 788
@@ -3783,7 +3782,7 @@ Gyerünk már, csináljuk a fotót!
 
 793
 00:52:49,082 --> 00:52:51,333
-Ártatlan,
+Veszélytelen,
 bár ez az alap...
 
 794
@@ -3800,7 +3799,7 @@ Egy, kettő...
 
 797
 00:53:01,678 --> 00:53:05,181
-- Még jó, hogy ártatlan.
+- Még jó, hogy veszélytelen.
 - Mi a franc ez?
 
 798
@@ -3815,7 +3814,7 @@ Egy, kettő...
 
 800
 00:53:11,855 --> 00:53:13,856
-- Hadd magyarázzam meg.
+- Hadd magyarázzam meg!
 - Gyerünk akkor!
 
 801
@@ -3856,12 +3855,12 @@ Mi olyan vicces?
 808
 00:53:42,886 --> 00:53:47,014
 Kérlek, nincs mit elmagyarázni.
-Nincs értelme, csak hagyd abba.
+Nincs értelme, hagyd abba.
 
 809
 00:53:47,641 --> 00:53:48,974
 - Rendben?
-- Csend legyen.
+- Csend legyen!
 
 810
 00:53:53,772 --> 00:53:57,024
@@ -3906,16 +3905,16 @@ tudod, hogy mit gondolok.
 818
 00:54:20,674 --> 00:54:24,051
 - Köszi szépen. Szia.
-- Szia Ivano!
+- Szia... Ivano!
 
 819
 00:54:24,427 --> 00:54:27,888
 - Ne menj át!
-- Oké szia!
+- Oké... szia!
 
 820
 00:54:30,809 --> 00:54:34,144
-- Elégedett vagy?
+- Most elégedett vagy?
 - Milyen gyakran beszéltek?
 
 821
@@ -3925,12 +3924,12 @@ tudod, hogy mit gondolok.
 
 822
 00:54:38,817 --> 00:54:41,318
-- Mindig, amikor ő szeretne
+- Mindig, amikor szeretne egy kicsit...
 - Értem.
 
 823
 00:54:41,528 --> 00:54:43,445
-Ha megijed, akkor felhív.
+Ha bepánikol, akkor felhív.
 
 824
 00:54:44,906 --> 00:54:48,450
@@ -3939,7 +3938,7 @@ terapeutára van szüksége, nem a volt barátnőjére.
 
 825
 00:54:48,827 --> 00:54:51,954
-- Kész van a fasírt.
+- Kész a fasírt.
 - Hihetetlen!
 
 826
@@ -3951,7 +3950,7 @@ terapeutára van szüksége, nem a volt barátnőjére.
 00:54:59,796 --> 00:55:03,299
 - Nem volt mit elmondani.
 - Te mondod mindig,
-hogy minden meg kell osztani.
+hogy mindent meg kell osztani.
 
 828
 00:55:03,425 --> 00:55:05,843
@@ -3972,21 +3971,21 @@ a kapcsolatunk szempontjából.
 00:55:14,227 --> 00:55:18,230
 - Én nem tartom a kapcsolatot
 a volt barátnőimmel.
-- Persze, mert megölnének téged.
+- Persze, mert megölnének.
 
 832
 00:55:18,356 --> 00:55:23,110
-Ha ennyire zavar téged, felhívom
+Ha ennyire zavar, akkor felhívom
 és megmondom neki, hogy ne hívjon többet.
 
 833
 00:55:23,236 --> 00:55:26,238
-- Rendben, mondd meg neki.
-- Akkor Cosimo most boldog
+- Rendben, mondd meg neki!
+- Akkor Cosimo most boldog,
 
 834
 00:55:26,364 --> 00:55:29,742
-és te meg titokban beszélgethetsz Ivanoval.
+te meg titokban beszélgethetsz Ivanoval.
 
 835
 00:55:29,868 --> 00:55:32,369
@@ -3996,12 +3995,12 @@ akkor nem is fogok.
 836
 00:55:32,746 --> 00:55:36,874
 Mért ne beszélhetnél vele?
-Õ egy barát, Cosimonak bíznia kéne benned.
+Csak egy barát, Cosimonak bíznia kéne benned.
 
 837
 00:55:37,000 --> 00:55:39,877
-Én bízom benne, de Ivanotól ki van a faszom.
-Szabad?
+Bízom benne, de Ivanotól ki van a faszom.
+Oké?
 
 838
 00:55:41,755 --> 00:55:46,383
@@ -4024,12 +4023,12 @@ Igen, persze!
 
 842
 00:56:00,357 --> 00:56:02,399
-Látom.
+Azt látom.
 
 843
 00:56:04,402 --> 00:56:06,403
 - Sofia hív.
-- Vedd fel.
+- Vedd fel!
 
 844
 00:56:09,866 --> 00:56:13,410
@@ -4058,7 +4057,7 @@ Apa, ott vagy még?
 849
 00:56:30,553 --> 00:56:34,181
 - És mit mondtál?
-- Nem tudom, szeretnék.
+- Nem tudom, szeretnék átmenni.
 
 850
 00:56:34,307 --> 00:56:37,434
@@ -4071,7 +4070,7 @@ Mit tegyek?
 
 852
 00:56:41,022 --> 00:56:44,942
-Ne menj csak azért, mert mérges lesz.
+Csak azért ne menj, mert mérges lesz.
 Nem lehet ez az egyetlen oka.
 
 853
@@ -4080,7 +4079,7 @@ Persze, nem is azért...
 
 854
 00:56:48,321 --> 00:56:51,532
-És ne várd,
+És azt azért ne várd,
 hogy örüljek neki.
 
 855
@@ -4121,7 +4120,7 @@ ha nem vagy biztos benne,
 
 863
 00:57:26,359 --> 00:57:28,360
-akkor felejts el, ne menj.
+akkor felejtsd el! Akkor ne menj!
 
 864
 00:57:30,113 --> 00:57:32,114
@@ -4157,7 +4156,7 @@ mintha hatodik érzéked lenne.
 
 871
 00:57:53,219 --> 00:57:56,263
-Még sosem csináltad.
+Még sosem csináltál ilyet.
 Na mindegy.
 
 872
@@ -4167,7 +4166,7 @@ mondd anyának, hogy Chiccánál vagyok.
 
 873
 00:58:00,602 --> 00:58:03,395
-- Mért nem mondod te meg neki?
+- Mért nem mondod meg neki?
 - Mit?
 
 874
@@ -4177,7 +4176,7 @@ mondd anyának, hogy Chiccánál vagyok.
 
 875
 00:58:05,648 --> 00:58:08,901
-- Mondtam, hogy beszélj vele.
+- Mondtam már, hogy beszélj vele.
 - Tudod, hogy milyen.
 
 876
@@ -4186,8 +4185,8 @@ Sose figyel, csak mérgelődik.
 
 877
 00:58:12,280 --> 00:58:16,533
-- Légy egy kicsit türelmesebb.
-- Kell egy kis türelem.
+- Légy egy kicsit türelmesebb!
+- Sok türelem kéne...
 
 878
 00:58:17,410 --> 00:58:19,369
@@ -4196,7 +4195,7 @@ Persze, rengeteg türelem.
 879
 00:58:19,913 --> 00:58:23,415
 De szerintem megéri.
-Próbáld meg.
+Próbáld meg!
 
 880
 00:58:23,666 --> 00:58:27,044
@@ -4310,7 +4309,7 @@ Meg kell magyaráznod.
 904
 01:00:15,778 --> 01:00:18,280
 - Mit?
-- Nem illik mást csak úgy lebunkózni.
+- Nem illik mást csak úgy lefaszkalapozni.
 
 905
 01:00:18,489 --> 01:00:21,283
@@ -4319,8 +4318,8 @@ Az a helyzet, hogy barom,
 
 906
 01:00:21,409 --> 01:00:24,369
-Ezt a barmot véletlenül
-nem Luciának hívják?
+Ezt a barmot nem véletlenül
+Luciának hívják?
 
 907
 01:00:24,495 --> 01:00:28,790
@@ -4329,7 +4328,7 @@ nem Luciának hívják?
 
 908
 01:00:29,792 --> 01:00:33,670
-Hív téged.
+Hív.
 Vedd fel, és megtudjuk, mi van.
 
 909
@@ -4395,7 +4394,7 @@ Sosem hittem volna, de...
 
 923
 01:01:41,823 --> 01:01:44,825
-Te megbolondultatok!
+Megbolondultatok!
 
 924
 01:01:45,118 --> 01:01:47,494
@@ -4421,17 +4420,17 @@ Carlotta?
 
 929
 01:02:11,769 --> 01:02:15,647
-Ő egy munkatárs...
+Egy munkatársam...
 Rocco, mondd el neki.
 
 930
 01:02:16,357 --> 01:02:19,609
 - Cosimo, gyerünk!
-- Ő egy munkatárs, aki...
+- Egy munkatárs, aki...
 
 931
 01:02:21,404 --> 01:02:23,655
-- Ő egy munkatárs.
+- Egy munkatárs.
 - Érted?
 
 932
@@ -4556,7 +4555,7 @@ Akkor most buzi?
 
 958
 01:04:40,418 --> 01:04:42,794
-Ne kezdd most el.
+Ne kezdd el!
 Mi a baj?
 
 959
@@ -4628,12 +4627,12 @@ Tudni akarom, ha a legjobb barátom buzi.
 
 974
 01:05:36,807 --> 01:05:40,977
-Lehet, nem is zavarna,
+Lehet, hogy nem is zavarna,
 de a francba! Tudni akarom!
 
 975
 01:05:44,315 --> 01:05:46,733
-"Lehet, nem is zavarna"?
+"Lehet, hogy nem is zavarna"?
 
 976
 01:05:48,861 --> 01:05:50,612
@@ -4651,7 +4650,7 @@ mit nem mondtál?
 979
 01:05:56,994 --> 01:06:00,956
 - De mi a gond?
-- Őt kérdezem, tudni akarom.
+- Őt kérdeztem. Tudni akarom.
 
 980
 01:06:01,582 --> 01:06:03,375
@@ -4660,8 +4659,7 @@ Akkor most tisztázzuk!
 981
 01:06:03,501 --> 01:06:08,380
 Az bassza a csőrödet, hogy buzi vagyok,
-vagy az,
-hogy nem mondtam el?
+vagy az, hogy nem mondtam el?
 
 982
 01:06:10,508 --> 01:06:14,386
@@ -4689,7 +4687,7 @@ Nem, én tévedtem.
 987
 01:06:31,904 --> 01:06:34,990
 Tévedés volt azt hinni,
-barátok vagyunk.
+hogy barátok vagyunk.
 
 988
 01:06:39,412 --> 01:06:41,413
@@ -4715,7 +4713,7 @@ a kapcsolatotokat.
 
 993
 01:07:00,933 --> 01:07:03,810
-Hazudott neked, mert elkerülhetetlen volt,
+Azért hazudott, mert elkerülhetetlen volt,
 
 994
 01:07:03,936 --> 01:07:06,563
@@ -4744,7 +4742,7 @@ hozzám sem értél.
 999
 01:07:35,718 --> 01:07:38,970
 Azt hittem, van valakid. Talán
-egy olyan kurva mint Peppének.
+egy olyan kurvád, mint Peppének.
 
 1000
 01:07:39,096 --> 01:07:41,473
@@ -4757,7 +4755,7 @@ Logikusabb lenne.
 
 1002
 01:07:48,189 --> 01:07:49,981
-Lele, mióta?
+Lele, mióta tart?
 
 1003
 01:07:50,191 --> 01:07:52,859
@@ -4778,7 +4776,7 @@ Hányan voltak?
 
 1007
 01:08:24,141 --> 01:08:26,643
-- Hányan voltak kik?
+- Hik voltak hányan?
 - Hányan voltak előtte?
 
 1008
@@ -4819,11 +4817,11 @@ amikor elmegy értetek az iskolába."
 1016
 01:08:57,258 --> 01:09:00,677
 - Befejezted?
-- Miért nem mondasz valamit?
+- Miért nem mondasz semmit?
 
 1017
 01:09:00,886 --> 01:09:03,179
-Ők a barátaid,
+Ezek itt a barátaid,
 talán ők is tudni akarják.
 
 1018
@@ -4876,7 +4874,7 @@ Sajnálom, elég rosszkor keresel.
 
 1029
 01:10:44,156 --> 01:10:48,159
-A fülbevalók tetszettek?
+A fülbevalók is tetszettek?
 
 1030
 01:10:48,369 --> 01:10:51,537
@@ -4895,7 +4893,7 @@ Kinek tetszettek a fülbevalók?
 1033
 01:11:17,314 --> 01:11:19,399
 - Igen...
-- Én nem viselek fülbevalót.
+- Én nem hordok fülbevalót.
 
 1034
 01:11:19,566 --> 01:11:24,195
@@ -4938,12 +4936,12 @@ a kibaszott fülbevalók?
 
 1042
 01:11:56,603 --> 01:11:58,354
-Válaszolj.
+Válaszolj!
 
 1043
 01:11:59,106 --> 01:12:02,358
 - Marika az.
-- Beszélj Marikával.
+- Beszélj Marikával!
 
 1044
 01:12:04,111 --> 01:12:06,237
@@ -4951,11 +4949,11 @@ Ez munka jellegű...
 
 1045
 01:12:07,489 --> 01:12:09,615
-Bianca, add ide azt a telefont.
+Bianca, add ide azt a telefont!
 
 1046
 01:12:13,203 --> 01:12:14,620
-Add ide a telefont.
+Add ide a telefont!
 
 1047
 01:12:14,830 --> 01:12:17,623
@@ -4964,7 +4962,7 @@ Add ide a kibaszott telefont!
 1048
 01:12:20,502 --> 01:12:24,630
 Szia, Édesem?
-Bocs, hogy ilyen későn hívlak Cosimo...
+Bocs, hogy ilyen későn hívlak, Cosimo...
 
 1049
 01:12:24,757 --> 01:12:28,760
@@ -5079,7 +5077,7 @@ Aztán jött ez a seggfej,
 
 1074
 01:15:33,153 --> 01:15:37,573
-Elhitette vele, hogy boldog lehetek
+Elhitette velem, hogy boldog lehetek
 és bízni kezdtem benne, de...
 
 1075
@@ -5200,7 +5198,7 @@ De megegyeztünk, hogy nem fogunk.
 
 1100
 01:17:42,908 --> 01:17:45,660
-Illetve, Te nem akartál.
+Illetve, te nem akartál.
 
 1101
 01:17:45,827 --> 01:17:48,329
@@ -5301,7 +5299,7 @@ meg sem az én telómon, sem Lele-én.
 1121
 01:19:06,283 --> 01:19:08,409
 - Ne csináld ezt.
-- Hallgass, hagy fejezzem be.
+- Hallgass, hadd fejezzem be!
 
 1122
 01:19:08,785 --> 01:19:11,036
@@ -5382,7 +5380,7 @@ Jól mondtam?
 
 1139
 01:21:00,021 --> 01:21:03,524
-Amikor Ti mondjátok, mindig hangsúlyozzátok:
+Amikor ti mondjátok, mindig így hangsúlyozzátok:
 buzi!
 
 1140
@@ -5424,7 +5422,7 @@ Mert két óráig buzi voltam,
 
 1148
 01:21:42,397 --> 01:21:45,024
-Mi mindannyian nyitottak vagyunk, igaz?
+Mindannyian nyitottak vagyunk, igaz?
 
 1149
 01:21:46,067 --> 01:21:49,153
@@ -5484,7 +5482,7 @@ a rokonaimnak...
 1161
 01:22:30,445 --> 01:22:34,990
 Tetszett ez a játék, egy kicsit olyan volt,
-mint a sorozatgyilkos sztorija,
+mint a sorozatgyilkos sztorija...
 
 1162
 01:22:35,116 --> 01:22:38,243
@@ -5509,7 +5507,7 @@ Mert ma este...
 
 1167
 01:22:57,389 --> 01:22:59,974
-coming outoltatok, nem én.
+ti coming out-oltatok, nem én.
 
 1168
 01:23:03,645 --> 01:23:05,270
@@ -5545,19 +5543,19 @@ mindentől megvéded.
 
 1175
 01:23:29,671 --> 01:23:30,921
-Ettol is...
+Ettől is...
 
 1176
 01:23:35,427 --> 01:23:37,553
-És mindettől is.
+ettől az egésztől.
 
 1177
 01:23:57,032 --> 01:24:00,951
-Bianca. Gyerünk, nyisd ki az ajtót.
+Bianca. Gyerünk, nyisd ki az ajtót!
 
 1178
 01:24:03,163 --> 01:24:05,205
-Most már elég, nyisd ki az ajtót.
+Most már elég, nyisd ki az ajtót!
 
 1179
 01:24:06,958 --> 01:24:09,460
@@ -5573,7 +5571,7 @@ Nyisd ki az ajtót!
 
 1182
 01:24:16,593 --> 01:24:19,720
-- Szedd ki onnan!
+- Hozd ki onnan!
 - Hogyan?
 
 1183
@@ -5583,7 +5581,7 @@ Nyisd ki az ajtót!
 
 1184
 01:24:23,850 --> 01:24:26,435
-- Törjétek be az ajtót.
+- Törjétek be az ajtót!
 - Bianca!
 
 1185
@@ -5684,7 +5682,7 @@ Viszlát, jó éjszakát.
 
 1206
 01:28:12,287 --> 01:28:16,415
-Nem, Te ragaszkodtál ahhoz, hogy kimaradj.
+Nem, te ragaszkodtál ahhoz, hogy ne játsszunk.
 Van valami rejtegetni valód?
 
 1207
